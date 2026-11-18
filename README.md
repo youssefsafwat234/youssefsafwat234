@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/youssef-safwat-hussein-elfishawy.jpg" width="144" alt="Portrait of Youssef Elfishawy">
   <h1>Youssef Elfishawy</h1>
   <p><strong>Full-Stack Developer · Laravel &amp; React</strong></p>
   <p>
