@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/youssef-elfishawy.jpg" width="160" alt="Portrait of Youssef Elfishawy">
+  <img src="assets/youssef-safwat-hussein-elfishawy.jpg" width="160" alt="Portrait of Youssef Elfishawy">
   <h1>Youssef Elfishawy</h1>
   <p><strong>Full-Stack Developer · Laravel &amp; React</strong></p>
   <p>Multi-tenant SaaS · API-driven platforms · Marketplaces</p>
