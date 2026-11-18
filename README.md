@@ -14,6 +14,14 @@
 
 I build SaaS platforms, marketplaces, and API-driven products with Laravel and React. My work spans multi-tenant backends, payment integrations, React and Inertia interfaces, and Filament admin panels. I focus on making these systems easier to operate and improving database and frontend performance.
 
+## GitHub activity
+
+<p align="center">
+  <img src="assets/github-activity.svg" width="730" alt="GitHub activity snapshot. 33 public non-fork repositories, 46 stars, 6 public pull requests and 5 merged pull requests. The most common primary languages are HTML, PHP, CSS and JavaScript.">
+</p>
+
+[Live contribution calendar](https://github.com/youssefsafwat234#year-list-container) · [Public repositories](https://github.com/youssefsafwat234?tab=repositories&q=&type=public) · [Public pull requests](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3Ayoussefsafwat234)
+
 ## Selected work
 
 | Project | Role | What it does |
